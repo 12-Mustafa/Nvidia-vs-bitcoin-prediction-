@@ -19,3 +19,4 @@ Python, Pandas, Data Visualization
 ## Outcome
 The project provides visual insights into asset behavior to support investment and
 risk-awareness discussions.
+<img width="1594" height="811" alt="Screenshot 2026-01-13 163356" src="https://github.com/user-attachments/assets/ad8475a7-60c0-4441-ae35-8cc0ba2bec18" />
